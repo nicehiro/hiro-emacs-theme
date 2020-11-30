@@ -1,0 +1,29 @@
+* Hiro Themes
+** Hiro Light Theme
+Still in development.
+
+** Hiro Dark Theme
+
+#+begin_center
+#+caption: *scratch*
+#+attr_latex: scale=0.75
+#+attr_html: :width 400
+#+attr_org: :width 400
+[[file:./imgs/scratch-dark.png]]
+#+end_center
+
+#+begin_center
+#+caption: *scratch*
+#+attr_latex: scale=0.75
+#+attr_html: :width 400
+#+attr_org: :width 400
+[[file:./imgs/org-dark.png]]
+#+end_center
+
+#+begin_center
+#+caption: *scratch*
+#+attr_latex: scale=0.75
+#+attr_html: :width 400
+#+attr_org: :width 400
+[[file:./imgs/python-dark.png]]
+#+end_center
