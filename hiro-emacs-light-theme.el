@@ -35,9 +35,10 @@
 				:background (face-background 'default))
 (set-face-attribute 'face-critical nil
 										:foreground github-text-red
+										:background github-gray-light
 										:weight 'bold)
 (set-face-attribute 'face-popout nil
-										:foreground github-text-blue
+										:foreground github-text-orange
 										:background github-gray
 										:bold)
 (set-face-attribute 'face-strong nil

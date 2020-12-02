@@ -308,10 +308,9 @@ background color that is barely perceptible."
 (set-face 'company-preview-search 'face-strong)
 (set-face 'company-tooltip-common-selection 'face-strong)
 (set-face 'company-tooltip-common 'face-strong)
-(set-face 'company-tooltip-selection 'face-strong)
+(set-face 'company-tooltip-selection 'face-critical)
 (set-face 'company-tooltip-annotation 'face-salient)
 (set-face 'company-tooltip-annotation-selection 'face-salient)
-(set-face 'company-tooltip-selection 'face-strong)
 (set-face 'company-tooltip 'face-popout)
 (set-face 'company-scrollbar-bg 'face-salient)
 
@@ -324,6 +323,23 @@ background color that is barely perceptible."
 (set-face 'snails-tips-prefix-backend-face 'face-strong)
 (set-face 'snails-candiate-content-face 'face-strong)
 (set-face 'snails-tips-prefix-key-face 'face-strong)
+
+;;; ivy face
+(set-face 'ivy-minibuffer-match-face-1 'face-salient)
+(set-face 'ivy-minibuffer-match-face-2 'face-strong)
+(set-face 'ivy-minibuffer-match-face-3 'face-strong)
+(set-face 'ivy-minibuffer-match-face-4 'face-strong)
+(set-face 'ivy-minibuffer-match-highlight 'face-critical)
+
+;;; rime face
+(set-face 'rime-code-face 'face-salient)
+(set-face 'rime-cursor-face 'face-faded)
+(set-face 'rime-comment-face 'face-subtle)
+(set-face 'rime-preedit-face 'face-strong)
+(set-face 'rime-default-face 'face-popout)
+(set-face 'rime-indicator-dim-face 'face-subtle)
+(set-face 'rime-indicator-face 'face-subtle)
+(set-face 'rime-highlight-candidate-face 'face-strong)
 
 ;;;;###autoload
 ;;; -------------------------------------------------------------------
